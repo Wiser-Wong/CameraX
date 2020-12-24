@@ -1,0 +1,3 @@
+include ':cameraX'
+include ':app'
+rootProject.name = "CameraFunction"
