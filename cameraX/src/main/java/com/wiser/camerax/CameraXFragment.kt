@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.camera.core.CameraSelector
+import androidx.camera.core.ImageCapture
 import androidx.camera.view.PreviewView
 
 /**
@@ -62,6 +63,23 @@ class CameraXFragment : BaseCameraXFragment() {
 
     fun initCameraFaceDirection(faceDirection: Int) {
         lensFacing = faceDirection
+    }
+
+    /**
+     * 切换闪光灯
+     */
+    fun switchCameraFlash(mode: Int = -100) {
+        flashMode = if (mode != -100) {
+            mode
+        } else {
+            if (ImageCapture.FLASH_MODE_OFF == flashMode) {
+                ImageCapture.FLASH_MODE_ON
+            } else {
+                ImageCapture.FLASH_MODE_OFF
+            }
+        }
+
+        setFlashMode()
     }
 
     /**

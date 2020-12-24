@@ -91,6 +91,10 @@ class CameraXActivity: AppCompatActivity(), CameraCallBack, OnCameraStatusChange
         cameraXFragment?.switchCameraMode()
     }
 
+    override fun switchCameraFlash() {
+        cameraXFragment?.switchCameraFlash()
+    }
+
     override fun takeCamera() {
 //        val mediaDir = this.externalMediaDirs.firstOrNull()?.let {
 //            File(it, "cameraX").apply { mkdirs() }

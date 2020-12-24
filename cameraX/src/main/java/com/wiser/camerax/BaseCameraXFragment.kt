@@ -48,6 +48,11 @@ abstract class BaseCameraXFragment : Fragment() {
     var lensFacing: Int = CameraSelector.LENS_FACING_BACK
 
     /**
+     * 闪光灯默认关闭
+     */
+    var flashMode: Int = ImageCapture.FLASH_MODE_OFF
+
+    /**
      * 是否录制视频
      */
     var isRecordVideo = false
@@ -164,6 +169,12 @@ abstract class BaseCameraXFragment : Fragment() {
             }
             setCameraPreview()
         }, ContextCompat.getMainExecutor(requireContext()))
+    }
+
+    fun setFlashMode(mode: Int? = flashMode) {
+        if (mode != null) {
+            imageCapture?.flashMode = mode
+        }
     }
 
     /**

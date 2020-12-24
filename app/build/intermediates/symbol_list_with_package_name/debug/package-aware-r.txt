@@ -1559,6 +1559,8 @@ drawable ic_shutter_focused
 drawable ic_shutter_normal
 drawable ic_shutter_pressed
 drawable ic_switch
+drawable icon_camera_flash_close
+drawable icon_camera_flash_open
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1777,6 +1779,7 @@ id home
 id homeAsUp
 id honorRequest
 id ib_switch_camera_face
+id ib_switch_camera_flash
 id ib_take_camera
 id icon
 id icon_group

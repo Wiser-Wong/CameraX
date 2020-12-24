@@ -15,6 +15,8 @@ class CameraXUIFragment: Fragment(){
 
     private var ibSwitchCameraFace: ImageButton? = null
 
+    private var ibSwitchCameraFlash: ImageButton? = null
+
     private var btnSwitchCameraMode: Button? = null
 
     private var tvTakeVideo: TextView? = null
@@ -22,6 +24,8 @@ class CameraXUIFragment: Fragment(){
     private var isRecordVideo = false
 
     private var isStartRecording = false
+
+    private var isFlash = false
 
     companion object {
         fun createCameraXUIFragment(cameraCallBack: CameraCallBack): CameraXUIFragment {
@@ -46,14 +50,30 @@ class CameraXUIFragment: Fragment(){
 
         ibSwitchCameraFace = view.findViewById(R.id.ib_switch_camera_face)
 
+        ibSwitchCameraFlash = view.findViewById(R.id.ib_switch_camera_flash)
+
         btnSwitchCameraMode = view.findViewById(R.id.btn_switch_camera_mode)
 
         tvTakeVideo = view.findViewById(R.id.tv_take_video)
 
+        // 闪光灯
+        ibSwitchCameraFlash?.setOnClickListener{
+            if (isFlash) {
+                isFlash = false
+                ibSwitchCameraFlash?.setImageResource(R.drawable.icon_camera_flash_close)
+            } else {
+                isFlash = true
+                ibSwitchCameraFlash?.setImageResource(R.drawable.icon_camera_flash_open)
+            }
+            cameraCallBack?.switchCameraFlash()
+        }
+
+        // 前置后置
         view.findViewById<ImageButton>(R.id.ib_switch_camera_face).setOnClickListener{
             cameraCallBack?.switchCameraFace()
         }
 
+        // 拍照
         view.findViewById<ImageButton>(R.id.ib_take_camera).setOnClickListener{
             if (isRecordVideo) {
                 if (isStartRecording) {
@@ -66,6 +86,7 @@ class CameraXUIFragment: Fragment(){
             }
         }
 
+        // 拍照录制切换
         view.findViewById<Button>(R.id.btn_switch_camera_mode).setOnClickListener{
             cameraCallBack?.switchCameraMode()
             if (isRecordVideo) {
@@ -97,6 +118,7 @@ class CameraXUIFragment: Fragment(){
 interface CameraCallBack {
     fun switchCameraFace()
     fun switchCameraMode()
+    fun switchCameraFlash()
     fun takeCamera()
     fun startRecordVideo()
     fun stopRecordVideo()

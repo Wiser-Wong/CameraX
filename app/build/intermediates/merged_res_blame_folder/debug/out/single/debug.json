@@ -116,6 +116,10 @@
         "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_shutter_focused.png"
     },
     {
+        "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_camera_flash_close.png.flat",
+        "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/drawable-xhdpi/icon_camera_flash_close.png"
+    },
+    {
         "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
@@ -176,6 +180,10 @@
         "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_camera_flash_open.png.flat",
+        "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/drawable-xhdpi/icon_camera_flash_open.png"
+    },
+    {
         "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_shutter_normal.png.flat",
         "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/generated/res/pngs/debug/drawable-ldpi/ic_shutter_normal.png"
     },
@@ -186,9 +194,5 @@
     {
         "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/build/intermediates/res/merged/debug/layout_fragment_camera.xml.flat",
-        "source": "/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/res/layout/fragment_camera.xml"
     }
 ]
