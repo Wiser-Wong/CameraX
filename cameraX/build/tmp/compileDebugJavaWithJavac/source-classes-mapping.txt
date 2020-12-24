@@ -1,0 +1,2 @@
+com/wiser/camerax/BuildConfig.java
+ com.wiser.camerax.BuildConfig

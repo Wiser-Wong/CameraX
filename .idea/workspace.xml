@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="929805b8-c762-4d05-86f4-21b1a6bab9bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[82904677]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lzjuD7GJAjMNisnklCAfyvVQui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_9-86c8b815" />
+    <property name="DEBUGGABLE_PROCESS" value="com.wiser.camerafunction" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="86c8b815" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-23T06:45:45.436Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/wangxy/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatButton.java_SELECTED" value="AppCompatButton" />
+    <property name="android-custom-view/Users/wangxy/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-view/1.0.0-alpha17/228b4505dd0a86462d98675ce1e43f160094efb5/camera-view-1.0.0-alpha17-sources.jar!/androidx/camera/view/PreviewView.java_SELECTED" value="PreviewView" />
+    <property name="android-custom-view/Users/wangxy/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cameraX/src/main/res/layout" />
+    <property name="multi-representation-preview/Users/wangxy/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatButton.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/wangxy/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-view/1.0.0-alpha17/228b4505dd0a86462d98675ce1e43f160094efb5/camera-view-1.0.0-alpha17-sources.jar!/androidx/camera/view/PreviewView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/wangxy/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dev.polek.adbwifi.settings.AdbWifiConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/wiser/camerafunction" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.wiser.camerafunction" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.wiser.camerax" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cameraX/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/cameraX/src/main/java/com/wiser/camerax" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/color" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CameraFunction.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="929805b8-c762-4d05-86f4-21b1a6bab9bd" name="Default Changelist" comment="" />
+      <created>1608607033727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608607033727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="CameraX 支持拍照，录制">
+      <created>1608791940350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608791940350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CameraX 支持拍照，录制" />
+    <option name="LAST_COMMIT_MESSAGE" value="CameraX 支持拍照，录制" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="299" key="#PSD" timestamp="1608791220601">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="421" y="299" key="#PSD/0.0.1792.1120@0.0.1792.1120" timestamp="1608791220601" />
+    <state x="675" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1608725292044">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="675" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1608725292044" />
+    <state x="633" y="357" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1608711935168">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="633" y="357" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608711935168" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608791191762">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608791191762" />
+    <state x="645" y="358" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1608637988443">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="645" y="358" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608637988443" />
+    <state x="659" y="270" key="#xdebugger.evaluate" timestamp="1608692459018">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="659" y="270" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1608692459018" />
+    <state x="665" y="313" key="AndroidProcessChooserDialog" timestamp="1608781318809">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="665" y="313" key="AndroidProcessChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608781318809" />
+    <state x="409" y="135" key="CommitChangelistDialog2" timestamp="1608791940124">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="409" y="135" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1608791940124" />
+    <state width="595" height="466" key="DebuggerActiveHint" timestamp="1608778614570">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="595" height="466" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1608778614570" />
+    <state width="1750" height="2" key="GridCell.Tab.0.bottom" timestamp="1608792357173">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357173" />
+    <state width="1750" height="2" key="GridCell.Tab.0.center" timestamp="1608792357171">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357171" />
+    <state width="1750" height="2" key="GridCell.Tab.0.left" timestamp="1608792357170">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357170" />
+    <state width="1750" height="2" key="GridCell.Tab.0.right" timestamp="1608792357172">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357172" />
+    <state width="1750" height="2" key="GridCell.Tab.1.bottom" timestamp="1608792357175">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357175" />
+    <state width="1750" height="2" key="GridCell.Tab.1.center" timestamp="1608792357174">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357174" />
+    <state width="1750" height="2" key="GridCell.Tab.1.left" timestamp="1608792357173">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357173" />
+    <state width="1750" height="2" key="GridCell.Tab.1.right" timestamp="1608792357175">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="2" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608792357175" />
+    <state width="500" height="476" key="SwitcherDM" timestamp="1608791346533">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="500" height="476" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1608791346533" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1608792052593">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1608792052593" />
+    <state x="414" y="296" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608781965271">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="414" y="296" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1792.1120@0.0.1792.1120" timestamp="1608781965271" />
+    <state x="588" y="315" width="615" height="490" key="find.popup" timestamp="1608783080493">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="588" y="315" width="615" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1608783080493" />
+    <state x="583" y="213" key="psd.add.module.dependency.panel.dimension" timestamp="1608791218161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="583" y="213" key="psd.add.module.dependency.panel.dimension/0.0.1792.1120@0.0.1792.1120" timestamp="1608791218161" />
+  </component>
+</project>

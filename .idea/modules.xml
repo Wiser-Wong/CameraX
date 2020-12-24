@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CameraFunction.iml" filepath="$PROJECT_DIR$/.idea/modules/CameraFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraFunction.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraFunction.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraX/CameraFunction.cameraX.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraX/CameraFunction.cameraX.iml" />
+    </modules>
+  </component>
+</project>

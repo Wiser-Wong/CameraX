@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wiser.camerafunction"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:5:5-65
+11-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:6:5-60
+13-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:6:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:7:5-70
+14-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:7:19-67
+15
+16    <uses-permission android:name="android.permission.WEITE_EXTERNAL_STORAGE" />
+16-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:8:5-81
+16-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:8:22-78
+17    <!-- 具备摄像头 -->
+18    <uses-feature android:name="android.hardware.camera.any" />
+18-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:10:5-64
+18-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:10:19-61
+19    <!-- 存储图像或者视频权限 -->
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:12:5-80
+20-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:12:22-77
+21    <!-- 录制音频权限 -->
+22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+22-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:14:5-71
+22-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:14:22-68
+23
+24    <application
+24-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:15:5-31:19
+25        android:allowBackup="true"
+25-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:16:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.3.2] /Users/wangxy/.gradle/caches/transforms-2/files-2.1/79ee559483d346866425453a88a27286/core-1.3.2/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:17:9-43
+29        android:label="@string/app_name"
+29-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:18:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:19:9-54
+31        android:supportsRtl="true"
+31-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:20:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.CameraFunction" >
+33-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:21:9-52
+34        <activity android:name="com.wiser.camerafunction.MainActivity" >
+34-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:22:9-28:20
+34-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:22:19-47
+35            <intent-filter>
+35-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:23:13-27:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:24:17-69
+36-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:24:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:26:17-77
+38-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:26:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:29:9-30:51
+42            android:name="com.wiser.camerafunction.CameraXActivity"
+42-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:29:19-50
+43            android:screenOrientation="portrait" />
+43-->/Users/wangxy/wangxy/project/androidGit/CameraFunction/app/src/main/AndroidManifest.xml:30:13-49
+44    </application>
+45
+46</manifest>

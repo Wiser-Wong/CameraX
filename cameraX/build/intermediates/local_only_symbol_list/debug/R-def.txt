@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+id cl_preview
+id preview
+layout fragment_camera

@@ -1,0 +1,4 @@
+com/wiser/camerafunction/BuildConfig.java
+ com.wiser.camerafunction.BuildConfig
+com/wiser/camerafunction/PhotoBitmapUtils.java
+ com.wiser.camerafunction.PhotoBitmapUtils
